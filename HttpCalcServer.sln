@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpCalcServer", "HttpCalcServer\HttpCalcServer.csproj", "{061B6E11-12DF-478E-B960-F617DE221F52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcTest", "CalcTest\CalcTest.csproj", "{BE72028E-A5E5-440F-B6C9-55519351167F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{061B6E11-12DF-478E-B960-F617DE221F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061B6E11-12DF-478E-B960-F617DE221F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061B6E11-12DF-478E-B960-F617DE221F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061B6E11-12DF-478E-B960-F617DE221F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE72028E-A5E5-440F-B6C9-55519351167F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE72028E-A5E5-440F-B6C9-55519351167F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE72028E-A5E5-440F-B6C9-55519351167F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE72028E-A5E5-440F-B6C9-55519351167F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36D8386-BEEE-476F-8DD6-169AE3D87C49}
+	EndGlobalSection
+EndGlobal
